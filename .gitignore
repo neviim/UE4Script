@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Unrel Engine 4
+*.bin
+
 # Compiled Object files
 *.slo
 *.lo
